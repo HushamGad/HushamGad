@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hisham-jad-0a029a179/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hisham%20jad-blue?style=flat-square&logo=linkedin"></a
+<a href="https://www.linkedin.com/in/hisham-jad-0a029a179/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hisham%20jad-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hishamalmged@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hishamalmged@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
