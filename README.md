@@ -4,7 +4,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp;  I am a Computer Engineering graduate from Kharkiv University with a specialization in web development and design.
 - 💻 &nbsp; I have gained strong foundational knowledge in networks and web technologies, and I am proficient in HTML, CSS, and JavaScript.
 - 🚀 &nbsp; I have successfully built numerous projects and am currently expanding my expertise in front-end development by learning React.
