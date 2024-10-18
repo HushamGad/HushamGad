@@ -44,4 +44,3 @@
 <a href="hishamalmged@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hishamalmged@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/HushamGad)
